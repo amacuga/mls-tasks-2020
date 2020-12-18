@@ -50,3 +50,18 @@ of iris.
 5. Select "Assessment.ipynb".
 
 ## References.
+
+**Files:**
+
+* *Assessment.ipynb:*
+
+
+* *iris.csv* available at: https://archive.ics.uci.edu/ml/machine-learning-databases/iris/
+
+**Img folder:**
+
+* *img1* available at: https://en.wikipedia.org/wiki/Square_root_of_2
+
+* *img2* available at: https://learnonline.gmit.ie/mod/url/view.php?id=102004
+
+* *img3* available at: https://www.datacamp.com/community/tutorials/machine-learning-in-r
