@@ -10,7 +10,7 @@ I created a Jupyter notebook, where I completed all tasks. The tasks were listed
 
 1. *October 5th, 2020*: Write a Python function called sqrt2 that calculates and prints to the screen the square root of 2 to 100 decimal places. Your code should not depend on any module from the standard library or otherwise. You should research the task first and include references and a description of your algorithm.
 
-By the standard library, we mean the modules and packages that come as standard with Python. Anything built-in that can be used without an import statement can be used.
+    By the standard library, we mean the modules and packages that come as standard with Python. Anything built-in that can be used without an import statement can be used.
 
 2. *November 2nd, 2020*: The Chi-squared test for independence is a statistical hypothesis test like a t-test. It is used to analyse whether two categorical variables are independent. The Wikipedia article gives the table below as an example, stating the Chi-squared value based on it is approximately 24.6. Use scipy.stats to verify this value and calculate the associated p value. You should include a short note with references justifying your analysis in a markdown cell.
 
@@ -20,7 +20,7 @@ By the standard library, we mean the modules and packages that come as standard 
 
 4. *November 30th, 2020:* NB – when I first posted this task, I accidentally wrote “k-means” where I meant to write “kNN” for k Nearest Neighbours. Because of this, I will allow either algorithm to be used and have extended the deadline by two weeks. 
 
-Use scikit-learn to apply k Nearest Neighbours clustering to Fisher’s famous Iris data set. You will easily obtain a copy of the data set online. Explain in a Markdown cell how your code works and how accurate it might be, and then explain how your model could be used to make predictions of species of iris.
+    Use scikit-learn to apply k Nearest Neighbours clustering to Fisher’s famous Iris data set. You will easily obtain a copy of the data set online. Explain in a Markdown cell how your code works and how accurate it might be, and then explain how your model could be used to make predictions of species of iris.
 
 ## How to run my jupyter notebook.
 
@@ -35,6 +35,7 @@ Use scikit-learn to apply k Nearest Neighbours clustering to Fisher’s famous I
 **Files:**
 
 * *Assessment.ipynb:*
+
 [1] Wikipedia contributors; "Square root"; [Online]. Available from: https://en.wikipedia.org/wiki/Square_root
 
 [2] Wikipedia contributors; "Square root of 2"; [Online]. Available from: https://en.wikipedia.org/wiki/Square_root_of_2
